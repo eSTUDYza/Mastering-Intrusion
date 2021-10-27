@@ -9,7 +9,7 @@
 
   <div><p> <img src="Images\download.png" width="500px" height="350px"> </p> </div>
 
-<br> <p>"Click the ask button on the bottom left corner to chat to a specialist".</p></br>
+<div><p>"Click the ask button on the bottom left corner to chat to a specialist".</p> </div>
 
 </body>
 </html>
